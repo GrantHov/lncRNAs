@@ -3,7 +3,7 @@ For each species, this folder contains scripts for mapping data to reference gen
 Required software:
 
 tophat2 v. 2.1.1 or higher
-stringtie v. 1.3.3b or higher
+stringtie v. 1.3.6 or higher
 samtools v. 1.9 or higher
 gffread v. 0.11.4 or higher
 gffcompare v. 0.11.2 or higher 
